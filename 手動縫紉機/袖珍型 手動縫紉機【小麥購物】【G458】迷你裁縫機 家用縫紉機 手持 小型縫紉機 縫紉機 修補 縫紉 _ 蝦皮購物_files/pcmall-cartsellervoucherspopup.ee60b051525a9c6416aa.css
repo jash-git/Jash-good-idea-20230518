@@ -1,0 +1,9 @@
+/*!
+ * Project: 'pcmall';
+ * Module: 'voucher';
+ * Tag: 'voucher-v1.5.0';
+ * Branch: 'heads/voucher-v1.5.0';
+ * Last commit: 'Merge branch '\''staging'\'' into '\''release'\''' (c3da68b4b1f2d94e1a620f32d8eb6650e5315835);
+ * Updated: '2023-05-23T09:18:26.793Z';
+ */.shopee-popover--default,.shopee-popover--dropdown{box-shadow:0 1px 1px 0 rgba(0,0,0,.05);border-radius:2px;background:#fff}.shopee-popover--default{max-height:8.375rem;padding:.3125rem 0;overflow-x:hidden;overflow-y:auto}.shopee-popover--dropdown{border:1px solid rgba(0,0,0,.09)}.shopee-popover--dropdown:after,.shopee-popover--dropdown:before{content:"";position:absolute;right:1rem}.shopee-popover--dropdown:after{border:.5rem solid transparent;border-bottom-color:#fff;top:-.9375rem;z-index:1}.shopee-popover--dropdown:before{border:.5rem solid transparent;border-bottom-color:rgba(0,0,0,.09);top:-1.0625rem;z-index:0}.stardust-popover{position:relative}.stardust-popover.focus-visible,.stardust-popover:focus-visible{outline:2px solid #000;border-radius:2px}.stardust-popover__popover{will-change:transform;position:absolute;z-index:-1}.stardust-popover__popover--show{z-index:3;animation:popover-enter-animation .2s cubic-bezier(.4,0,.6,1);opacity:1}.stardust-popover__popover--border{border:1px solid rgba(0,0,0,.09)}.stardust-popover__popover--hide{animation:popover-hide-animation .2s cubic-bezier(.4,0,.6,1)}.stardust-popover__arrow{z-index:3;position:absolute;will-change:transform}.stardust-popover__arrow--inner{position:absolute;left:-8px;width:0;height:0}@keyframes popover-enter-animation{0%{transform:scale(0);opacity:0}to{transform:scale(1);opacity:1}}@keyframes popover-hide-animation{0%{transform:scale(1);opacity:1}to{transform:scale(0);opacity:0}}.lTT4eh{border:1px solid rgba(0,0,0,.09);z-index:590!important}
+/*# sourceMappingURL=https://sourcemap.webfe.shopeemobile.com/pcmall-voucher/_/pcmall-cartsellervoucherspopup.ee60b051525a9c6416aa.css.map*/
